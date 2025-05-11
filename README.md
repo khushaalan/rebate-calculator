@@ -1,1 +1,1 @@
-calculate loan rebate using rule 78
+# calculate auto loan rebate using rule 78
